@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/jabrian456/pastagram/blob/main/20210309122159901.gif'' alt='Video Walkthrough' />
+<img src='https://github.com/jabrian456/pastagram/blob/main/20210309122159901.gif' alt='Video Walkthrough' />
